@@ -2,7 +2,7 @@ name: Update Space Shooter Game
 
 on:
   schedule:
-    - cron: '36 22 * * *'   # Every day at midnight UTC
+    - cron: '0 0 * * *'   # Every day at midnight UTC
   workflow_dispatch:     # Manual trigger button
 
 permissions:
