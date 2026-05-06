@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on an AR aggression training app which utilizes AI to provide feedback to the users<br>👯 I’m looking to collaborate on innovative and new ideas that empowers people<br>💬 Ask me about product/program management, management in general and innovation<br>⚡ Fun fact in my free time I'm working as a shiftleader operation for a supermarket in my neighbourhood
+🔭 I’m currently working on a GLOW project to generate the core concept of the new installation we want to present on GLOW!<br>👯 I’m looking to collaborate on innovative and new ideas that empowers people<br>💬 Ask me about product/program management, management in general and innovation<br>⚡ Fun fact in my free time I'm working as a shiftleader operation for a supermarket in my neighbourhood
 
 
 ## 🌐 Socials:
